@@ -25,7 +25,7 @@ def get_data(
     """
 
     if "entities" in tweet_data and "hashtags" in tweet_data["entities"]:
-        hashtags = [hashtag["tag"] for hashtag in tweet_data["entities"]["hashtags"]]
+        hashtags = [("#" + hashtag["tag"]) for hashtag in tweet_data["entities"]["hashtags"]]
         data = {
             "account": {
                 "fullname": user_data["name"],

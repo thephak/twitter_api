@@ -109,14 +109,14 @@ $ GET http://localhost:8080/hashtags/helloworld?limit=10
             },
             "date": "11:54 AM - 24 Sep 2021",
             "hashtags": [
-                "DunDunDance",
-                "OHMYGIRL",
-                "サイリウムの証明",
-                "放課後プリンセス",
-                "HelloWorld",
-                "WATWING",
-                "ウェスティンホテル仙台",
-                "みやぎオータムボックス"
+                "#DunDunDance",
+                "#OHMYGIRL",
+                "#サイリウムの証明",
+                "#放課後プリンセス",
+                "#HelloWorld",
+                "#WATWING",
+                "#ウェスティンホテル仙台",
+                "#みやぎオータムボックス"
             ],
             "likes": 0,
             "replies": 0,
@@ -131,19 +131,19 @@ $ GET http://localhost:8080/hashtags/helloworld?limit=10
             },
             "date": "11:52 AM - 24 Sep 2021",
             "hashtags": [
-                "ceir",
-                "mobilelost",
-                "mobile",
-                "lost",
-                "knowledge",
-                "innovation",
-                "instagramreels",
-                "instagood",
-                "information",
-                "informationtechnology",
-                "helloworld",
-                "digital",
-                "projects"
+                "#ceir",
+                "#mobilelost",
+                "#mobile",
+                "#lost",
+                "#knowledge",
+                "#innovation",
+                "#instagramreels",
+                "#instagood",
+                "#information",
+                "#informationtechnology",
+                "#helloworld",
+                "#digital",
+                "#projects"
             ],
             "likes": 0,
             "replies": 0,
@@ -158,123 +158,14 @@ $ GET http://localhost:8080/hashtags/helloworld?limit=10
             },
             "date": "11:51 AM - 24 Sep 2021",
             "hashtags": [
-                "HelloWorld"
+                "#HelloWorld"
             ],
             "likes": 0,
             "replies": 0,
             "retweets": 20,
             "text": "RT @Stellmacher20: #HelloWorld https://t.co/acWqB63A5B"
         },
-        {
-            "account": {
-                "fullname": "TLo -🚩Ⓣⓞⓝⓨ",
-                "href": "/TLo02",
-                "id": "159203186"
-            },
-            "date": "11:49 AM - 24 Sep 2021",
-            "hashtags": [
-                "HelloWorld"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 20,
-            "text": "RT @Stellmacher20: #HelloWorld https://t.co/acWqB63A5B"
-        },
-        {
-            "account": {
-                "fullname": "Stéphane James",
-                "href": "/JamesStephane4",
-                "id": "1300774017700331522"
-            },
-            "date": "11:45 AM - 24 Sep 2021",
-            "hashtags": [
-                "HelloWorld"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 20,
-            "text": "RT @Stellmacher20: #HelloWorld https://t.co/acWqB63A5B"
-        },
-        {
-            "account": {
-                "fullname": "szanto adam",
-                "href": "/szantoadam",
-                "id": "2322508106"
-            },
-            "date": "11:37 AM - 24 Sep 2021",
-            "hashtags": [
-                "helloworld",
-                "otoslotto"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 0,
-            "text": "#helloworld from twitbotcoolslash. your random numbe between 1-95 is : 10. have a nice day! #otoslotto"
-        },
-        {
-            "account": {
-                "fullname": "bot",
-                "href": "/bot55576648",
-                "id": "1437769945593511941"
-            },
-            "date": "11:32 AM - 24 Sep 2021",
-            "hashtags": [
-                "Welcome",
-                "onboarding",
-                "hashtag",
-                "HelloWorld"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 0,
-            "text": "Hi RT @AnimeLegendary1: Hi Everyone ! That's my first tweet on twitter ! Sorry for being late 😅 #Welcome #onboarding #hashtag #HelloWorld"
-        },
-        {
-            "account": {
-                "fullname": "bot",
-                "href": "/bot55576648",
-                "id": "1437769945593511941"
-            },
-            "date": "11:32 AM - 24 Sep 2021",
-            "hashtags": [
-                "helloworld",
-                "otoslotto"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 0,
-            "text": "Hi RT @szantoadam: #helloworld from twitbotcoolslash. your random numbe between 1-95 is : 41. have a nice day! #otoslotto"
-        },
-        {
-            "account": {
-                "fullname": "Boo SoftaOfta",
-                "href": "/BSoftaofta",
-                "id": "1329327146125430784"
-            },
-            "date": "11:14 AM - 24 Sep 2021",
-            "hashtags": [
-                "HelloWorld"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 20,
-            "text": "RT @Stellmacher20: #HelloWorld https://t.co/acWqB63A5B"
-        },
-        {
-            "account": {
-                "fullname": "⭐CrAcK®️⭐",
-                "href": "/_crni_andjeo_",
-                "id": "1384606730227703808"
-            },
-            "date": "11:11 AM - 24 Sep 2021",
-            "hashtags": [
-                "HelloWorld"
-            ],
-            "likes": 0,
-            "replies": 0,
-            "retweets": 20,
-            "text": "RT @Stellmacher20: #HelloWorld https://t.co/acWqB63A5B"
-        }
+        ...
     ]
 }
 ```
