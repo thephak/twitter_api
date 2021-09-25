@@ -11,7 +11,7 @@ Optional parameters:<br />
 - limit: integer, specifies the number of tweets to retrieve, the default is 30. The number must be between 10-100.<br />
 Example request:<br />
 ```
-curl GET http://localhost:xxxx/hashtags/Python?limit=40
+curl GET http://localhost:8080/hashtags/Python?limit=40
 ```
 
 ### Get user tweets. Get the list of tweets that the user has on his feed in JSON format.
@@ -19,7 +19,7 @@ Optional parameters:<br />
 - limit: integer, specifies the number of tweets to retrieve, the default is 30. The number must be between 10-100.<br />
 Example request:<br />
 ```
-curl GET http://localhost:xxxx/users/twitter?limit=20
+curl GET http://localhost:8080/users/twitter?limit=20
 ```
 
 <hr />
